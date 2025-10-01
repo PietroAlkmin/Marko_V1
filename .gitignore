@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+out/
+
+# VS files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode (opcional)
+.idea/
+.vscode/
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.nunit.xml
+
+# Cache
+*.vsidx
+*.cache
+*.log
+
+# Others
+*.dbmdl
+*.bak
